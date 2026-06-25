@@ -40,4 +40,4 @@ En el dataset simulado, Toyota y Hyundai concentran la mayor parte de las ventas
 
 ## Autora
 
-Karina Correa — [LinkedIn](https://linkedin.com/in/karina-correa-aparicio) · [GitHub](https://github.com/KARCOR)
+Karina Correa — [GitHub](https://github.com/KARCOR)
