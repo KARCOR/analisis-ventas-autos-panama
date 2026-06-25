@@ -32,10 +32,10 @@ En el dataset simulado, Toyota y Hyundai concentran la mayor parte de las ventas
 ## Estructura del repositorio
 
 ```
-├── analisis_ventas_autos.ipynb   # Notebook completo con el análisis
-├── dashboard_ventas_2025.png       # Dashboard final (6 paneles)
-├── graf_heatmap.png                # Mapa de calor: ventas por marca y mes
-└── README.md
+├── README.md 
+├── dashboard_ventas_2025.png    # Notebook completo con el análisis 
+├── dashboard_ventas_2025.png    # Dashboard final (6 paneles)
+└── graf_heatmap.png             # Mapa de calor: ventas por marca y mes
 ```
 
 ## Autora
